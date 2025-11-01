@@ -30,7 +30,7 @@ This dataset contains information about best-selling products (titles, authors, 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/YOURUSERNAME/amazon-bestsellers-analysis.git
+   git clone https://github.com/bebos-35/amazon-bestsellers-analysis.git
    cd amazon-bestsellers-analysis
 
 2. Create and activate a virtual environment:
